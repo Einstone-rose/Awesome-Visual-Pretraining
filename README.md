@@ -43,4 +43,6 @@ Date|Method|Conference|Title|Code
 2023-03-09|LocalMIM|CVPR 2023|[Masked Image Modeling with Local Multi-Scale Reconstruction](https://arxiv.org/abs/2303.05251)|[LocalMIM](https://github.com/huawei-noah/Efficient-Computing/tree/master/Self-supervised/LocalMIM)
 
 ## Adversrial Learning 
+Date|Method|Conference|Title|Code
+-----|----|-----|-----|-----
 2022-01-31|ADIOS|Arxiv 2022|[Adversarial Masking for Self-Supervised Learning](https://arxiv.org/pdf/2201.13100.pdf)|None
